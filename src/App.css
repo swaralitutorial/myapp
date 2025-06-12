@@ -13,6 +13,20 @@
   }
 }
 
+<<<<<<< HEAD
+=======
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+>>>>>>> 980e3ffcde7db20cf26c27baed3b69e37530ce65
 .App-link {
   color: #61dafb;
 }
@@ -25,4 +39,7 @@
     transform: rotate(360deg);
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 980e3ffcde7db20cf26c27baed3b69e37530ce65
