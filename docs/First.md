@@ -16,3 +16,7 @@ This is my first custom React component. It displays a simple heading and is sty
 ```jsx
 import First from './First';
 <First />
+
+## 📄 View Full Source Code
+
+[👉 Click to view First.jsx file](../src/First.jsx)
